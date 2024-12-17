@@ -1,3 +1,4 @@
 Aquí viene tu diario
 
 Commit 1: El primer commit de esta rama.
+Commit 2: El segundo commit de esta rama.
